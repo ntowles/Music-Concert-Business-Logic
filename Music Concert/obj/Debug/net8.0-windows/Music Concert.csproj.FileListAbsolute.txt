@@ -1,0 +1,21 @@
+C:\UAT\MS539 Programming Concepts\Music Concert\bin\Debug\net8.0-windows\Music Concert.exe
+C:\UAT\MS539 Programming Concepts\Music Concert\bin\Debug\net8.0-windows\Music Concert.deps.json
+C:\UAT\MS539 Programming Concepts\Music Concert\bin\Debug\net8.0-windows\Music Concert.runtimeconfig.json
+C:\UAT\MS539 Programming Concepts\Music Concert\bin\Debug\net8.0-windows\Music Concert.dll
+C:\UAT\MS539 Programming Concepts\Music Concert\bin\Debug\net8.0-windows\Music Concert.pdb
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\Music_Concert.FormMain.resources
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\Music Concert.csproj.GenerateResource.cache
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\Music Concert.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\Music Concert.AssemblyInfoInputs.cache
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\Music Concert.AssemblyInfo.cs
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\Music Concert.csproj.CoreCompileInputs.cache
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\Music Concert.dll
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\refint\Music Concert.dll
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\Music Concert.pdb
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\Music Concert.genruntimeconfig.cache
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\ref\Music Concert.dll
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\Music_Concert.Properties.Resources.resources
+C:\UAT\MS539 Programming Concepts\Music Concert\bin\Debug\net8.0-windows\BusinessLogic.dll
+C:\UAT\MS539 Programming Concepts\Music Concert\bin\Debug\net8.0-windows\BusinessLogic.pdb
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\Music Concert.csproj.AssemblyReference.cache
+C:\UAT\MS539 Programming Concepts\Music Concert\obj\Debug\net8.0-windows\Music Co.E7D3147E.Up2Date
